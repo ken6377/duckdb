@@ -1,0 +1,22 @@
+
+version: 2
+
+sources:
+  - name: main
+    description: Titanic data
+    tables:
+      - name: train
+        description: Train data
+        columns:
+          - name: PassengerId
+          - name: Survived
+          - name: Pclass
+          - name: Name
+          - name: Sex
+          - name: Age
+          - name: SibSp
+          - name: Parch
+          - name: Ticket
+          - name: Fare
+          - name: Cabin
+          - name: Embarked
