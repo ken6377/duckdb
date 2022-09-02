@@ -25,6 +25,7 @@ msgpack==1.0.4
 networkx==2.8.3
 numpy==1.23.2
 packaging==21.3
+pandas==1.4.4
 parsedatetime==2.4
 pycparser==2.21
 pyparsing==3.0.9
